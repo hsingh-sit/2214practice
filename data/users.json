@@ -1,0 +1,14 @@
+{
+  "wiener": {
+    "password_md5": "d0763edaa9d9bd2a9516280e9044d885",
+    "role": "user"
+  },
+  "administrator": {
+    "password_md5": "21232f297a57a5a743894a0e4a801fc3",
+    "role": "admin"
+  },
+  "carlos": {
+    "password_md5": "51dc30ddc473d43a6011e9ebba6ca770",
+    "role": "user"
+  }
+}

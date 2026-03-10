@@ -1,0 +1,5 @@
+{
+  "auth_bypass": "FLAG1_AUTH_BYPASS_7BB0B4",
+  "admin_upgrade": "FLAG2_ADMIN_UPGRADE_91C2E1",
+  "session_fixation": "FLAG3_SESSION_FIXATION_A4D9F0"
+}
