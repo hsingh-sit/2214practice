@@ -17,6 +17,6 @@ start_vuln_session();
     <li><a href="/dashboard.php">Dashboard</a></li>
     <li><a href="/admin.php">Admin panel</a></li>
   </ul>
-  <p>Tip: run with <code>php -S localhost:8000</code> in this folder or use Docker (see README).</p>
+  <p></p>
 </body>
 </html>
